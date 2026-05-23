@@ -1,5 +1,4 @@
-# Save this as gen_readme.py and run it in your project folder
-readme_content = """# Graph Traversal and Representation System
+"""# Graph Traversal and Representation System
 
 ## A. Project Overview
 This project implements a graph-based system in Java to explore data structures and traversal algorithms[cite: 1]. 
